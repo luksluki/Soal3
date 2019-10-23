@@ -1,4 +1,5 @@
-# soal3v3
+# soal3 (Test)
+
 
 ## Project setup
 ```
@@ -18,6 +19,10 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+```
+### Json Server setup (API)
+```
+json-server db.json
 ```
 
 ### Customize configuration
